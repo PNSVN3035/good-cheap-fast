@@ -1,4 +1,4 @@
-# Welcome to Form Good Cheap Fast
+# Welcome to Good Cheap Fast
 
 ## Technologies Used
 - HTML, CSS & JAVASCRIPT
